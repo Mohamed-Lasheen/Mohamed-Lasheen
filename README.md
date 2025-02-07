@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=34F76C&center=true&vCenter=true&multiline=true&width=800&height=70&lines=Hello+There!+I'm+Mohamed+%F0%9F%98%8A;Welcome+To+My+Profile!)](https://git.io/typing-svg)
-## How to reach me
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=34F76C&center=true&vCenter=true&multiline=true&width=1002&height=90&lines=Hello+There!+I'm+Mohamed+%F0%9F%98%8A;Welcome+To+My+Profile!" alt="Typing SVG" /></a>
+
+<h1 align="center"> How To Reach Me </h1>
