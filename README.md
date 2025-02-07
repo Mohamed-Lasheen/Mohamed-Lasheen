@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+There!+I'm+Mohamed+:blush:;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=34F76C&center=true&vCenter=true&multiline=true&width=800&height=70&lines=Hello+There!+I'm+Mohamed+%F0%9F%98%8A;Welcome+To+My+Profile!)](https://git.io/typing-svg)
+## How to reach me
