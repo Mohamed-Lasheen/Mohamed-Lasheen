@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 <h1 align="center"> About Me </h1>
 
 <p align="left">
-☀️ I am a Data Analyst and a computer science graduate with honor's degree from the Faculty of Computer and Information Sciences, Ain Shams University, specializing in creating visual reports and insightful summaries for impactful decision making. 
+I am a Data Analyst and a computer science graduate with honor's degree from the Faculty of Computer and Information Sciences, Ain Shams University, specializing in creating visual reports and insightful summaries for decisions that make an impact.
 
-🖥️ Over the past 3 years I have been focused on improving my data science skills through taking courses relevant to machine learning and deep learning as well as taking on relevant projects and participating in artificial intelligence competitions. Through my passion in artificial intelligence I want to develop my skills further and develop products that can make an impact for everyone.
+I have entered multiple competitions such as Machine Learning, Deep Learning and Computer Vision competitions, in which I have earned the top 3 ranks in all of them, by ensuring that the final version of the product that was delivered was as required, while also taking the extra mile to make sure that it stands out.
+
+I used to be a Graphic Designer for a student activity, which has helped me now in creating dashboards that are aesthetically pleasing, accessible, simple and easy to read, making it effective for stakeholders to view the reports and gain the insights from them. During my time as a Graphic Designer, I was awarded Man of The Season Award for always delivering high quality designs on time.
   
-👨‍💻 I am currently working on multiple data analysis projects to showcase the best of my capabilities in deriving insights from data. 
+I am currently working on multiple data analysis projects to showcase the best of my capabilities in deriving insights from data. 
 </p>
 
 # 💻 Tech Stack:
