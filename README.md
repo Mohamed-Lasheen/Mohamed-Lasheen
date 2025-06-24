@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 I am a Fresh computer science graduate with honor's degree from the Faculty of Computer and Information Sciences, Ain Shams University, with a GPA of 3.58. 
-Specializing in creating visual reports and insightful summaries for decisions that help businesses flourish and .
+Specializing in creating visual reports and insightful summaries for decisions that help businesses flourish.
 
 I have entered multiple competitions such as Machine Learning, Deep Learning and Computer Vision competitions, in which I have earned the top 3 ranks in all of them, by ensuring that the final version of the product that was delivered was as required, while also taking the extra mile to make sure that it stands out.
 
