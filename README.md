@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=34F76C&center=true&vCenter=true&multiline=true&width=1002&height=90&lines=Hello+There!+I'm+Mohamed+%F0%9F%98%8A;Welcome+To+My+Profile!" alt="Typing SVG" /></a>
-
-
 <h1 align="center"> About Me </h1>
 
 <p align="left">
-I am a fresh Computer Science graduate with honor's degree from the Faculty of Computer and Information Sciences, Ain Shams University, with a GPA of 3.58. 
+I am a fresh Computer Science graduate with honors degree from the Faculty of Computer and Information Sciences at Ain Shams University, with a GPA of 3.58. 
 Specializing in creating visual reports and insightful summaries for decisions that help businesses flourish.
 
 I have entered multiple competitions such as Machine Learning, Deep Learning and Computer Vision competitions, in which I have earned the top 3 ranks in all of them, by ensuring that the final version of the product that was delivered was as required, while also taking the extra mile to make sure that it stands out.
