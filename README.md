@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # About Me 
 
 <p align="left">
-As a driven Computer Science graduate from Ain Shams University, I bridge the gap between complex data and strategic business decisions by building insightful, visually compelling reports. 
+A Computer Science graduate from Ain Shams University with Honors degree, I bridge the gap between complex data and strategic business decisions by building insightful, visually compelling reports. 
 
 My academic foundation is fortified by hands-on experience gained through multiple data science and software engineering internships, where I applied machine learning principles to real-world challenges. This practical skill was proven in competitive arenas, where I consistently placed in the top three in Machine Learning and Computer Vision competitions by delivering solutions that not only met technical requirements but stood out for their innovation and impact. 
 
